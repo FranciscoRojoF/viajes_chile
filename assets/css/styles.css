@@ -1,0 +1,32 @@
+.parrafos {
+    padding-top: 40px !important;
+    padding-left: 37px;
+    padding-right: 37px;
+    color: #ffffff;
+     }
+
+     .color_fondo{
+        background-color:  #0DCAF0 ;
+    }
+    body{
+        background-color: black;
+    }
+    .color_card{
+       background-color: #0DCAF0;
+    }
+    
+    a.nav-link {
+        font-size: 16px;
+        color: #ffffff !important;
+        font-family: "Cabin", sans-serif;
+        font-weight: normal;
+      }
+      h2{
+        color: #ffffff;
+      }
+      div{
+        color: #ffffff;
+      }
+      a.navbar-brand{
+        color: #ffffff;
+      }
