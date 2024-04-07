@@ -5,6 +5,10 @@
     color: #ffffff;
      }
 
+
+
+
+
      .color_fondo{
         background-color:  #0DCAF0 ;
     }
@@ -18,7 +22,7 @@
     a.nav-link {
         font-size: 16px;
         color: #ffffff !important;
-        font-family: "Cabin", sans-serif;
+        font-family: "DM Mono", monospace;
         font-weight: normal;
       }
       h2{
